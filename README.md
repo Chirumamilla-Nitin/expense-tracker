@@ -1,6 +1,6 @@
 # Expense Tracker by Nitin
 
-A simple web-based **Expense Tracker** built with **Python, Flask, and HTML/CSS**.  
+A web-based **Expense Tracker** built with **Python, Flask, and HTML/CSS**.  
 Keep track of your expenses, filter by category, edit or delete entries, and visualize spending with a pie chart.
 
 ## Features
